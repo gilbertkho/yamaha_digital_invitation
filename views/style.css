@@ -1,0 +1,33 @@
+.body-width{
+    max-width: 500px;
+    overflow-x: hidden;
+}
+.footer-nav{
+    width: 100%; 
+    max-width: 500px; 
+    bottom: 0;
+    z-index: 100;
+}
+.shadow{
+    box-shadow: 0px 2px 10px -1px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 2px 10px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 10px -1px rgba(0,0,0,0.75);
+}
+.page-content{
+    min-height: 60vh;
+}
+.invitation-page{
+    min-height: 100vh;
+}
+.bg-main{
+    background-color: #0e1549 !important;
+}
+.btn{
+    min-width: 100px;
+}
+.border-main{
+    border: #0e1549 1px solid !important;
+}
+.text-main{
+    color:#0e1549 !important;
+}
